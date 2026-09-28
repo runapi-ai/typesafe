@@ -1,0 +1,10 @@
+{
+  "name": "typesafe",
+  "version": "0.2.0",
+  "description": "RunAPI TypeSafe skill for Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents",
+  "skills": [
+    {
+      "path": "skills/typesafe/SKILL.md"
+    }
+  ]
+}
